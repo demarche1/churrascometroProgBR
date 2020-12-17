@@ -10,20 +10,6 @@ let linguica = null
 let frango = null
 
 function calcularCarne(){
-     // if(horas > 4){
-     //      // Calculo da Carne 
-     //      let totalCarneHomens = homens * carnePorHoraHomem * 4 + homens * (carnePorHoraHomem / 2) * (horas - 4)
-     //      let totalCarneMulheres = mulheres * carnePorHoraMulher * 4 + mulheres * (carnePorHoraMulher / 2) * (horas - 4)
-     //      let totalCarneCriancas = criancas * carnePorHoraMulher * 4 + criancas * (carnePorHoraMulher / 3) * (horas - 4)
-     //      totalCarne = totalCarneHomens + totalCarneMulheres + totalCarneCriancas
-     // }
-     // else{
-     //      // Calculo da Carne 
-     //      let totalCarneHomens = homens * carnePorHoraHomem * horas
-     //      let totalCarneMulheres = mulheres * carnePorHoraMulher * horas
-     //      let totalCarneCriancas = criancas * carnePorHoraMulher * horas
-     //      totalCarne = totalCarneHomens + totalCarneMulheres + totalCarneCriancas 
-     // }
     carneBovina = totalCarne * 50 / 100
     linguica = totalCarne * 30 / 100
     frango = totalCarne * 20 / 100
