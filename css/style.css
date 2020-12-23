@@ -76,11 +76,11 @@ body{
         width: 400px;
     }
     .svg_container{
-        margin: 30px auto;
+        margin: 30px 10px;
         
     }
     .churrascometro_container{
-        margin: 30px auto;
+        margin: 30px 10px;
         padding: 5%;
         border-radius: 10px;
     }
